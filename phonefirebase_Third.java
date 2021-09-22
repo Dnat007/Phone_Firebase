@@ -28,5 +28,5 @@ public class Third extends AppCompatActivity {
                 finish();
             }
         });
-    }
+    }//
 }
